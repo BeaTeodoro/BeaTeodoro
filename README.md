@@ -3,7 +3,8 @@
 - 🖥️ Web Dev
 - 🎓 Designer
 - 📚 Estudando ADS e CC
-- 📧 b.teodoro@hotmail.com.br
+
+  ##
 
 <div align="center">
   <a href="https://github.com/beateodoro">
