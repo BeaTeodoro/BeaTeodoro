@@ -1,8 +1,8 @@
 ### Hi 👋🏻 My name is Beatriz Teodoro and this is my GitHub <img align="center" alt="Bea-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
-- 🖥️ Web Dev
+- 🖥️ Front-end
 - 🎓 Designer
-- 📚 Learning ASD e CC
+- 📚 Learning ASD 
 
   ##
 
