@@ -22,7 +22,7 @@
  
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/31c0ee74aa29d020fa846e8912f15f28.gif" align="right" width="150" height="150" border="radius:50px" alt="Beapic" /></a><br /><a href="https://picasion.com/">
 </div>
-
+  
   ##
 
 <div> 
@@ -30,4 +30,6 @@
   <a href = "mailto:b.teodoro@hotmail.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-teodoro-001285106//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  
+  ![Snake animation](https://github.com/BeaTeodoro/BeaTeodoro/blob/output/github-contribution-grid-snake.svg)
   </div>
