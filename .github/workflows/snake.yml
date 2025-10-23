@@ -1,43 +1,32 @@
-name: Generate Datas
+name: Generate snake animation
 
 on:
-  schedule:
-    # executa a cada 12 horas
-    - cron: "0 */12 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
+  push:
+    branches:
+    - master
 
 jobs:
-  build:
-    name: Gerar imagens do contribution-snake e publicar
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Gerar GitHub-snake e assets (Platane/snk pinned)
-        # action fixada em SHA para segurança (não usa tag mutável)
-        uses: Platane/snk@a69d1dbca7a94c2ef0edf10dcd9e19982d74dd39
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          # altere para o seu usuário se quiser (ou deixe como está para usar o repo owner)
           github_user_name: BeaTeodoro
-          # arquivos de saída (uma linha por arquivo). Aceita query string com opções.
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          outputs: dist/snake.svg?palette=github-dark
 
-      - name: Criar pasta dist quando action acima não criar (segurança)
-        run: |
-          mkdir -p dist
-          ls -la dist || true
 
-      - name: Publicar saída em branch "output" (crazy-max/ghaction-github-pages pinned)
-        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
