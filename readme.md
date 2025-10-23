@@ -101,3 +101,5 @@
     </td> 
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/BeaTeodoro/BeaTeodoro/output/snake.svg" alt="Snake animation" />
