@@ -70,8 +70,6 @@
       <img alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
       <img alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
     </td> 
-
-  <tr align="center">
     <td> 
       <h4 align="center" >📊 Ciência de Dados</h4> 
       <img alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
@@ -81,7 +79,8 @@
       <img alt="Scikitlearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
       <img alt="TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> 
     </td> 
-    
+
+  <tr align="center">
   <td> 
       <h4 align="center" >🧪 QA / Testes</h4> 
       <img alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg"> 
@@ -89,8 +88,6 @@
       <img alt="Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-plain.svg" />
       <img alt="PyTest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
     </td> 
-  </tr>
-  
   <td> 
       <h4 align="center" >☁️ Nuvem / Infraestrutura</h4> 
       <img alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> 
