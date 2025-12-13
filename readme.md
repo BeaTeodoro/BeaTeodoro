@@ -1,11 +1,9 @@
-### Oiê, aqui é a Beatriz Teodoro e esse é o meu Github <img alt="Bea-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  ### Oiê, que bom ter você aqui 🌸
 
-<ul>
-  <li>🖥️ Tech Enthusiast | Full-Stack</li>
-  <li>🎓 Ciência da Computação</li>
-  <li>📚 Especializações em QA/Dados/Cibersegurança</li>
-  <li>💡 Foco em dados, fintechs e soluções digitais</li>
-</ul>
+  - 🖥️ Tech Enthusiast | Full-Stack
+  - 🎓 Ciência da Computação
+  - 📚 Especializações em QA/Dados/Cibersegurança
+  - 💡 Foco em dados, fintechs e soluções digitais
 
 <a href="https://github.com/beateodoro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beateodoro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -19,9 +17,9 @@
   <a href="https://www.linkedin.com/in/beatrizateodoro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h4>  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 💻 Linguagens de Programação</h4>
-<p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
-  <!-- Essenciais -->
+<h4>  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;💻 Linguagens de Programação</h4>
+<p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <!-- Essenciais --> 
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg"> 
@@ -38,9 +36,9 @@
   <img alt="Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </p>
 
-<table> 
-  <tr align="center">
-    <td> 
+<table>  
+  <tr align="center"> 
+    <td>
       <h4 align="center" >🎨 Front-end / UI</h4> 
       <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> 
       <img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"> 
@@ -97,5 +95,3 @@
     </td> 
   </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/BeaTeodoro/BeaTeodoro/output/snake.svg" alt="Snake animation" />
